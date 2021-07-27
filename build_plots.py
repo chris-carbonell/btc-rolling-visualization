@@ -233,7 +233,7 @@ def create_plt(
 ## BTC Price
 
 df_data = pd.read_csv(
-    "https://btccagr.herokuapp.com/download",
+    config.input_filename,
     parse_dates=[col_date]
 )
 
