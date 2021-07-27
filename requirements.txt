@@ -1,0 +1,6 @@
+# data
+pandas==1.3.0
+
+# viz
+matplotlib==3.4.2
+seaborn==0.11.1
