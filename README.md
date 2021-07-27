@@ -4,7 +4,7 @@
 
 # GIF (Trimmed)
 
-![BTC Price](https://github.com/chris-carbonell/btc_rolling_visualization/blob/0c6023579d865b5c7acde099e4f5406c369f166e/output/btc.gif)
+![BTC Price](./output/btc.gif)
 
 *Note.* The GIF is compressed from a 100 MB MP4.
 
