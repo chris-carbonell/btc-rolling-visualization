@@ -17,7 +17,7 @@ After installing the required dependencies, to build the graphs, simply run:<br>
 
 # Process
 
-1. Build plots via Python (<code>build_plots.py</code>
+1. Build plots via Python (<code>build_plots.py</code>)
 2. Combine .png files to video using ffmpeg (<code>./ffmpeg/create_videos.bat</code>)
 3. (Optional) Combine the videos in a video editor for final touches
 
