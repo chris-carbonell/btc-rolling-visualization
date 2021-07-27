@@ -1,6 +1,3 @@
-# btc_rolling_visualization
-rolling (animated, moving) visualization of BTC price over time
-
 # BTC Rolling Visualization
 
 <b>BTC Rolling Visualization</b> creates the nearly eight thousand graphs behind the rolling visualization of BTC price over time.
