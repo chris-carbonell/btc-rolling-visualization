@@ -2,7 +2,7 @@
 
 <b>BTC Rolling Visualization</b> creates the nearly eight thousand graphs behind the rolling visualization of BTC price over time.
 
-# GIF
+# GIF (Trimmed)
 
 ![BTC Price](https://github.com/chris-carbonell/btc_rolling_visualization/blob/0c6023579d865b5c7acde099e4f5406c369f166e/output/btc.gif)
 
